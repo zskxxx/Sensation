@@ -1,0 +1,6 @@
+name: Sensation
+author: ZeSowK
+version: 0.2
+main: fr.zsk.sensation.Sensation
+commands:
+  gm:

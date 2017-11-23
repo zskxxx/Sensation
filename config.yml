@@ -1,0 +1,46 @@
+#########################################
+#			SENSATION BY ZESOWK			#
+#				   1.8					#
+#########################################
+#!#
+#!#	Use colors codes with § not with & (example: &4 -> §4)
+#!#
+
+#!#
+#!#	You can use these codes : -PLAYER-; -SERVER-; -PREFIX-.
+#!#
+
+#		Name of server:
+server-name: MyServer
+
+#		Prefix:
+prefix: §7[§cMyServer§7]
+
+#		Join Message:
+join-message: §7[§a+§7] The player §a-PLAYER- §7has join -SERVER-.
+
+#		Quit Message:
+quit-message: §7[§c+§7] The player §a-PLAYER- §7has disconnect -SERVER-.
+
+#		Welcome Message:
+welcome-message: §fWelcome to -PLAYER- from all of players !
+
+#		If a player doesn't have the permission to execute this command :
+
+unauthorized-command: §cSorry but you can't execute this command !
+
+#		Console can't make a command:
+
+unauthorizedcmd-command: -PREFIX- Error, you can't execute this command because you're the console !
+
+
+
+###########################################
+#			GAMEMODE COMMAND			  #
+###########################################
+
+#		Specify your gamemode (/gm)
+pleasespecify-gm: -PREFIX- please specify your gamemode (/gm <0|1|2|3>)
+
+#		Uncognized Gamemode:
+uncognizedgamemode-message: -PREFIX- this gamemode doesn't existing.
